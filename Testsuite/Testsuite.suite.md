@@ -4,7 +4,7 @@ Testsuite
 ### Test Suite Description
 
 ### Test Case Order
-1. Sample1.spec.md
-2. Sample2.spec.md
-3. Sample3.spec.md
-4. Sample4.spec.md
+- Sample1.spec.md
+- Sample2.spec.md
+- Sample3.spec.md
+- Sample4.spec.md
