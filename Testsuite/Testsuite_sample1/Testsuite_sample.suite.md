@@ -4,6 +4,6 @@ Testsuite_sample
 ### Test Suite Description
 
 ### Test Case Order
-1. bbb.spec.md
-2. ccc.spec.md
-3. aaa.spec.md
+1. aaa.spec.md
+2. bbb.spec.md
+3. ccc.spec.md
