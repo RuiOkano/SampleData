@@ -1,0 +1,4 @@
+### Platform
+- Firefox
+- Safari
+- Google
